@@ -10,7 +10,6 @@ Information about completion: ✅(Complete)
   - [Table of Contents](#table-of-contents)
   - [Projects in Dry_Bean_Data](#projects-in-dry_bean_data)
   - [Projects in classifying time series data](#projects-in-classifying-time-series-data)
-  - [Research Papers](#research-papers)
  
 ## Projects in Dry_Bean_Data
 - **[Dry Bean Classification ✅]:** The objective of this project is to test the effectiveness of a range of classifier models on the UCI Dry Bean dataset see [details here](https://archive.ics.uci.edu/dataset/602/dry+bean+dataset) with machine learning techniques. The dataset is available in the folder Dry_Bean_Classification in the file Dry_Bean_Dataset.csv. There is a second objective to address a scenario where one type of error is more serious than others, i.e. one of the bean types is poisonous. 
